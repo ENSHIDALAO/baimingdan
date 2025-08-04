@@ -47,7 +47,7 @@ if not isPlayerWhitelisted(LocalPlayer.Name) then
         Text = "您不在白名单中 ("..LocalPlayer.Name..")",
         Duration = 5
     })
-    wait(0.1)
+    wait(1)
     LocalPlayer:Kick("快去找BEN买白名单")
     return
 else
