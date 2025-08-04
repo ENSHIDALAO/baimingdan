@@ -1,4 +1,4 @@
-local Players = game:GetService("Players")
+loadstring([==[local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
 -- 白名单列表
@@ -56,4 +56,4 @@ else
         Text = "欢迎 "..LocalPlayer.Name.."，可以使用BEN自动脚本",
         Duration = 5
     })
-end
+end]==])()
