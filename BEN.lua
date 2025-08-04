@@ -4,7 +4,7 @@ local LocalPlayer = Players.LocalPlayer
 -- 白名单列表
 local whitelist = {
     "YourUsernameHere",  -- 替换为你的用户名
-    "",       -- 添加其他用户名
+    "fifkchxuc",       -- 添加其他用户名
     "4575",
     ""        -- 最多支持50个用户名
 }
