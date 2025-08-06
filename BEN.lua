@@ -6,7 +6,7 @@ local whitelist = {
     "jduej119",  -- 替换为你的用户名
     "fifkchxuc",       -- 添加其他用户名
     "ddguyfdd",
-    "Snow_GJDW","46469gmmgwg","greenbag119",        -- 最多支持50个用户名
+    "Snow_GJDW","46469gmmgwg","greenbag119","cucfxugc",        -- 最多支持50个用户名
 }
 
 -- 检查白名单是否为空或无效
