@@ -48,7 +48,7 @@ if not isPlayerWhitelisted(LocalPlayer.Name) then
     })
     wait(1)
     LocalPlayer:Kick("快去找BEN买白名单")
-    wait(1000)
+    wait(999999999999999999999999)
     return
 else
     game.StarterGui:SetCore("SendNotification", {
