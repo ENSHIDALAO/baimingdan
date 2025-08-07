@@ -5,7 +5,7 @@ local LocalPlayer = Players.LocalPlayer
 local whitelist = {
     "jduej119",  -- 替换为你的用户名
     "hsgisjdhsj",       -- 添加其他用户名
-    "",
+    "hdhdgh830",
     "","46469gmmgwg","greenbag119","",        -- 最多支持50个用户名
 }
 
