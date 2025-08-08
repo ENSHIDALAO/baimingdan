@@ -1,4 +1,4 @@
-loadstring([==[local Players = game:GetService("Players")
+loadstring([==[local 6666Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
 -- 白名单列表
