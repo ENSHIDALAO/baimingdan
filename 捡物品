@@ -3,7 +3,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- 白名单列表
 local whitelist = {
-    "",      -- 最多支持50个用户名
+    "66666",      -- 最多支持50个用户名
 }
 
 -- 检查白名单是否为空或无效
